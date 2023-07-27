@@ -1,0 +1,74 @@
+.container{
+    margin-top: 175px;
+    background-color: white;
+    border-style: dotted;
+}
+
+.container h1{
+    font-size: 70px;
+    color: white;
+    background-color: black;
+}
+
+.container h2{
+    background-color:black ;
+    color: white;
+}
+
+.col-lg-6 button{
+    background-color: black;
+    color: white;
+    margin-left: 45%;
+    
+}
+
+.container h7{
+    text-align: center;
+    margin-left: 35%;
+    color: black;
+    font-size: 20px;
+}
+
+body {
+    background-image: url("quiz2.jpg");
+    background-size: cover;
+  }
+
+
+.container1{
+    background-image: url("bg.jpg");
+}
+.container1 h3{
+    font-style: italic;
+  }
+
+.container1 h2{
+    color: #1e90ff;
+    font-style: italic;
+  }
+
+.container1 h1{
+    color: blue;
+}
+
+.container1 form{
+    color: black;
+    text-align: left;
+}
+
+.container2{
+    background-image: url("bg3.jpg");
+    height: 1000px;
+    background-size: cover;
+}
+
+.container2 a{
+    margin-left: 600px;
+    background-color: black;
+    color: white;
+}
+
+.container2 a:hover{
+    background-color: gray;
+    color: white;
+}
